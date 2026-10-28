@@ -1,0 +1,1 @@
+/* Un rack es el mueble/estructura donde se montan físicamente varios equipos de red en una sala deservidores o telecomunicaciones. Definí una clase Rack compuesta por tres objetos Router , conun método mostrarEstado() que muestre el estado de los tres. */

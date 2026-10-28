@@ -1,0 +1,1 @@
+/* Definí una clase Router con atributo privado potencia (en dBm — ver glosario). Agregale unsetPotencia() que solo acepte valores entre 0 y 30 dBm (un rango típico permitido para este tipode equipo), y su getPotencia() . */

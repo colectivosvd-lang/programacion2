@@ -1,0 +1,1 @@
+/* Un enlace es la conexión lógica entre dos puntos de una red, caracterizada por su ancho de ban- da disponible (ver glosario). Definí una clase Enlace con atributos origen , destino (am- bos std::string ) y anchoBandaMbps (double). Sobrecargá operator<< para poder hacer std::cout << enlace; . */

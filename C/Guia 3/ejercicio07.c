@@ -1,0 +1,1 @@
+// Leer un carácter y dos números enteros. Si el carácter leído corresponde a un operador aritmético, calcular la operación correspondiente mediante una función. Si se ingresa cualquier otro carácter, mostrar un mensaje de error.

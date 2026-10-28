@@ -1,0 +1,1 @@
+/* Sobrecargá operator== para comparar dos objetos Router (misma potencia y mismo canal —agregale canal como atributo si todavía no lo tiene), como si quisieras detectar si dos routers tienenexactamente la misma configuración. */
